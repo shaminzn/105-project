@@ -14,3 +14,7 @@ section h1 {
 section p {
 	font: 16px 'Open Sans';
 }
+
+header h1 {
+	color: red;
+}
